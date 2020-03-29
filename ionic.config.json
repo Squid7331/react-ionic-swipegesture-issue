@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-swipegesture-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
